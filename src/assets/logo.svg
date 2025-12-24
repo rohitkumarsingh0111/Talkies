@@ -1,13 +1,17 @@
-<svg width="260" height="64" viewBox="0 0 260 64" xmlns="http://www.w3.org/2000/svg">
-  <!-- Reel Circle -->
-  <circle cx="32" cy="32" r="26" fill="#E50914"></circle>
-  <polygon points="28,22 28,42 44,32" fill="white"></polygon>
+<svg width="310" height="80" viewBox="0 0 310 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Text -->
-  <text x="72" y="42" font-family="Poppins, Arial" font-size="32" font-weight="700" fill="#E50914">
-    Talk
+  <!-- Text: Sh -->
+  <text x="10" y="55" font-family="Poppins, Inter, sans-serif" font-size="42" font-weight="700" fill="white">
+    Sh
   </text>
-  <text x="140" y="42" font-family="Poppins, Arial" font-size="32" font-weight="700" fill="white">
-    ies
+
+  <!-- Play Button replaces O -->
+  <circle cx="82" cy="42" r="18" fill="#E50914"></circle>
+  <polygon points="76,32 76,52 92,42" fill="white"></polygon>
+
+  <!-- Text: wBook (gap reduced) -->
+  <text x="108" y="55" font-family="Poppins, Inter, sans-serif" font-size="42" font-weight="700" fill="white">
+    wBook
   </text>
+
 </svg>
